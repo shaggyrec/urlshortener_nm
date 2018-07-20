@@ -1,0 +1,16 @@
+{
+  "name": "urlshortnerwl",
+  "version": "1.0.0",
+  "description": "url shortner with node modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shaggyrec",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.1.0",
+    "node-router": "^0.1.5",
+    "node-static": "^0.7.10"
+  }
+}
