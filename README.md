@@ -9,6 +9,8 @@ git clone https://github.com/shaggyrec/urlshortener_nm.git
 
 cd urlshortener_nm
 
+npm i
+
 node index.js
  
 in browser open localhost:3000
